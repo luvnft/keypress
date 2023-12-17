@@ -62,7 +62,13 @@ watch(Slash, (n) => {
       <h3
         class="absolute left-4 md:left-1/2 top-8 md:top-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:text-3xl font-semibold flex flex-wrap items-center"
       >
-        /📍 What3Words /🅰️ Team Name /🏦 Arvrtise.x $BTC $ETH $SOL $MATIC crypto escrow
+        /📍 What3Words
+        /🏦 Arvrtise.X Crypro Escrow ($BTC $ETH $SOL $MATIC) 
+        /🅰️ Team Name
+        /🏢 CRE CLUB Name
+        /🏘️ ADUBNB Name
+        /💖 HealXYZ Name
+        /🪙 LUV GAMES Name
       </h3>
     </NuxtLink>
 
