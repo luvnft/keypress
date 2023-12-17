@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/zernonia/keypress">
+  <a href="https://github.com/luvnft/keypress">
     <img src="public/logo.svg" alt="KeyPress's Logo" width="80">
   </a>
   <br />
@@ -13,9 +13,9 @@
   <p align="center"> 
     <a href="https://arvrtise.link/">View Demo</a>
     ·
-    <a href="https://github.com/zernonia/keypress/issues">Report Bug</a>
+    <a href="https://github.com/luvnft/keypress/issues">Report Bug</a>
     ·
-    <a href="https://github.com/zernonia/keypress/issues">Request Feature</a>
+    <a href="https://github.com/luvnft/keypress/issues">Request Feature</a>
   </p>
 </p>
 

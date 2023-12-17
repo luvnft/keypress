@@ -9,21 +9,21 @@ export const useCustomHead = (
     title,
     meta: [
       {
-        name: "description",
+        name: "Arvrtise.link",
         content:
-          description ?? "An open-source blogging platform + free custom domains. Powered by Nuxt 3, Supabase & Vercel",
+          description ?? "Post a free what3words Web5 arvrtising ad barting One $LUV or using Arvrtise.x crypto escrow.",
       },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@zernonia" },
-      { name: "twitter:title", content: title ?? "KeyPress | Write your blog with keyboard only experience" },
+      { name: "twitter:site", content: "@arvrtise" },
+      { name: "twitter:title", content: title ?? "Arvrtise.Link | Web5 Ads" },
       {
         name: "twitter:description",
         content:
-          description ?? "An open-source blogging platform + free custom domains. Powered by Nuxt 3, Supabase & Vercel",
+          description ?? "Post a Web5 ad arvrtising X with What3Words and Arvrtise.X as escrow",
       },
       { name: "twitter:image", content: image ?? "https://arvrtise.link/og.png" },
       { property: "og:type", content: "website" },
-      { property: "og:title", content: title ?? "KeyPress | Write your blog with keyboard only experience" },
+      { property: "og:title", content: title ?? "Arvrtise.Link | Post a Web5 ad" },
       { property: "og:url", content: "https://arvrtise.link/" },
       { property: "og:image", content: image ?? "https://arvrtise.link/og.png" },
       { property: "og:image:secure_url", content: image ?? "https://arvrtise.link/og.png" },
@@ -31,7 +31,7 @@ export const useCustomHead = (
       {
         property: "og:description",
         content:
-          description ?? "An open-source blogging platform + free custom domains. Powered by Nuxt 3, Supabase & Vercel",
+          description ?? "Post a Web5 ad arvrtising X with What3Words and Arvrtise.X as escrow",
       },
     ],
   })
