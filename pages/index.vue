@@ -36,12 +36,12 @@ watch(Slash, (n) => {
     <div class="relative my-20 md:my-30 text-center">
       <div class="z-100">
         <h1 class="text-4xl md:text-6xl font-bold">
-          Keyboard-first <br />
-          Blogging Platform
+          Free.W3W.Web5<br />
+          Arvrtising Platform
         </h1>
 
         <h2 class="mt-8 text-xl md:text-3xl font-semibold text-gray-300">
-          KeyPress let you write your blog <br />
+          Arvrtise.link let's you write your post <br />
           with only keyboard
         </h2>
 
@@ -52,18 +52,18 @@ watch(Slash, (n) => {
       </div>
     </div>
 
-    <NuxtLink to="https://github.com/zernonia/keypress" target="_blank" class="w-full relative block">
+    <NuxtLink to="https://github.com/luvnft/keypress" target="_blank" class="w-full relative block">
       <NuxtImg
         style="object-position: 0 20%"
         class="w-full h-60 md:h-80 object-cover rounded-2xl"
-        src="https://images.unsplash.com/photo-1665049420194-8f562db50cbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
-        alt=""
+        src="https://i.imgur.com/4w3CGNp.jpg"
+        alt="Arvrtise Link"
       />
       <h3
         class="absolute left-4 md:left-1/2 top-8 md:top-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:text-3xl font-semibold flex flex-wrap items-center"
       >
         <div class="i-mdi-github mr-2"></div>
-        Nuxt 3 + Supabase + Vercel
+        /📍 What3Words /🅰️ Team Name /🏦 Arvrtise.x
       </h3>
     </NuxtLink>
 
