@@ -60,10 +60,8 @@ watch(Slash, (n) => {
         alt="Arvrtise Link"
       />
       <h3 class="absolute left-4 md:left-1/2 top-8 md:top-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:text-3xl font-normal">
-      <h2 class="mt-20 text-4xl font-bold">Prompts</h2>
-      <span class="block mb-2">/📍 What3Words Address</span>
-      <span class="block mb-2">/🏦 Arvrtise.X Crypto Escrow ($BTC $ETH $SOL $MATIC)</span>
-      <span class="block mb-2">/🔗 Discord Name</span>
+      <span class="block mb-2">/📍 What3Words Address</span> + <span class="block mb-2">/🏦 Arvrtise.X Crypto Escrow ($BTC $ETH $SOL $MATIC)</span>
+      + <span class="block mb-2">/🔗 Discord Name</span>
       </h3>
     </NuxtLink>
 
