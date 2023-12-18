@@ -42,7 +42,7 @@ watch(Slash, (n) => {
 
         <h2 class="mt-8 text-xl md:text-3xl font-semibold text-gray-300">
           Arvrtise.link let's you write your post <br />
-          with only keyboard
+          with only /
         </h2>
 
         <div class="mt-12 flex flex-col items-center justify-center">
@@ -59,16 +59,14 @@ watch(Slash, (n) => {
         src="https://i.imgur.com/4w3CGNp.jpg"
         alt="Arvrtise Link"
       />
-      <h3
-        class="absolute left-4 md:left-1/2 top-8 md:top-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:text-3xl font-semibold flex flex-wrap items-center"
-      >
-        /📍 What3Words
-        /🏦 Arvrtise.X Crypro Escrow ($BTC $ETH $SOL $MATIC) 
-        /🅰️ Team Name
-        /🏢 CRE CLUB Name
-        /🏘️ ADUBNB Name
-        /💖 HealXYZ Name
-        /🪙 LUV GAMES Name
+      <h3 class="absolute left-4 md:left-1/2 top-8 md:top-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:text-3xl font-normal">
+      <span class="block mb-2">📍 What3Words Address</span>
+      <span class="block mb-2">🏦 Arvrtise.X Crypro Escrow ($BTC $ETH $SOL $MATIC)</span>
+      <span class="block mb-2">🅰️ Team Name</span>
+      <span class="block mb-2">🏢 CRE CLUB Name</span>
+      <span class="block mb-2">🏘️ ADUBNB Name</span>
+      <span class="block mb-2">💖 HealXYZ Name</span>
+      <span class="block mb-2">🪙 LUV GAMES Name</span>
       </h3>
     </NuxtLink>
 
