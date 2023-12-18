@@ -6,7 +6,8 @@
   </div>
 </template>
 
+<!-- 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0">
-	<path d="" fill="#000000"/>
+  <path d="" fill="#000000"/>
 </svg>
-
+-->
